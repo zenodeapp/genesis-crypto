@@ -11,7 +11,7 @@
   nativeByteOrder ? true, # nativeByteOrder mode will panic on big endian machines
 }:
 let
-  version = "v1.6.2";
+  version = "v1.6.2.1g";
   pname = "genesisd";
   tags = [
     "ledger"
